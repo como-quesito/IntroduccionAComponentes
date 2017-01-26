@@ -1,2 +1,2 @@
 # Introduccion AComponentes
-Visitar el Wiki
+[VISITAR EL WIKI](https://github.com/como-quesito/IntroduccionAComponentes/wiki)
